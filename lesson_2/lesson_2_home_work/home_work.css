@@ -1,0 +1,75 @@
+body{
+
+
+}
+.conteiner{
+    background-color: #e2e2e3;
+    padding: 30px;
+}
+.conteiner div{
+    width: 100px;
+    height: 100px;
+    background-color: #fda901;
+
+    text-align: center;
+    margin: 30px;
+
+
+
+
+}
+.target_A{
+    box-shadow:10px 10px 0 0 #454546;
+    text-align: center;
+
+
+
+}
+.target_B{
+    box-shadow:10px 10px 4px 0 #454546;
+
+}
+.target_C{
+    box-shadow:12px 12px 4px 0 #454546;
+
+}
+.target_D{
+    box-shadow:13px 13px 4px 0 #9d9d9e;
+}
+.target_E{
+    box-shadow:10px 10px 4px 0 #454546;
+    border-radius: 5px;
+}
+.target_F{
+    box-shadow:10px 10px 4px 0 #9d9d9e;
+    border-radius: 5px;
+}
+
+.conteiner_2{
+    padding: 30px;
+}
+.red{
+    color: #e2e2e3;
+    background-color: #882727;
+    text-align: center;
+    margin-bottom: 30px;
+}
+.text1{
+    background-color: #c0c0c0;
+    padding: 12px;
+}
+.text2{
+    background-color: #6395ec;
+    padding: 12px 0;
+}
+.green{
+    width: 100px;
+    height: 100px;
+    background-color: #6ab967;
+}
+.purple{
+    width: 100px;
+    height: 100px;
+    background-color: #8886ab;
+    border-radius: 12px;
+}
