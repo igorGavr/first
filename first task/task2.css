@@ -1,0 +1,16 @@
+body{
+    max-width: 1200px;
+    padding: 30px;
+}
+h2{
+    background-color: darkgrey;
+}
+.femaly{
+    font-size: x-large;
+    line-height: 44px;
+    background-color: #cdf5f5;
+}
+
+img{
+    width: 400px;
+}
