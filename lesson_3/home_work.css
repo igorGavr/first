@@ -1,5 +1,4 @@
 .task_1{
-    border: #0b0003;
     width: 400px;
     height: 400px;
     background-color: #c28596;
@@ -8,6 +7,7 @@
     font-size: 45px;
 
 }
+
 .A{
     width: 100%;
     height: 35%;
@@ -39,6 +39,10 @@
     width: 30%;
     border:2px #ff3e3e solid;
 }
+.border{
+    border:2px #ff3e3e solid;
+}
+
 
 .task_2{
     display: flex;
