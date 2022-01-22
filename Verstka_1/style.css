@@ -122,6 +122,7 @@ body{
     bottom: -30px;
     border: none;
     cursor: pointer;
+    transition: box-shadow .35s;
 }
 .header_button_bottom:hover{
     box-shadow: 0 4px 16px 0 rgba(0,0,0,0.75);
@@ -212,6 +213,12 @@ body{
     font-size: 18px;
     line-height: 25px;
     margin-bottom: 126px;
+    transition: box-shadow .35s;
+}
+.why_switch__btn:hover{
+    box-shadow: 0 4px 16px 0 rgba(0,0,0,0.75);
+    -webkit-box-shadow:0 4px 16px 0 rgba(0,0,0,0.75);
+    -moz-box-shadow: 0 4px 16px 0 rgba(0,0,0,0.75);
 }
 .plans{
     display: flex;
@@ -294,6 +301,7 @@ body{
     font-size: 18px;
     line-height: 25px;
     margin-bottom: 157px;
+    transition: box-shadow .35s;
 
 }
 .hub_btn:hover{
@@ -341,6 +349,7 @@ body{
     width: 159px;
     font-size: 18px;
     line-height: 25px;
+    transition: box-shadow .35s;
 }
 .ready_btn:hover{
     box-shadow: 0 4px 16px 0 rgba(0,0,0,0.75);
