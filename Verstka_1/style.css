@@ -11,6 +11,7 @@ body{
 }
 .header_grid{
     position: relative;
+    /*border: 1px solid red;*/
 }
 .wrapper{
     max-width: 1150px;
@@ -77,7 +78,7 @@ body{
     padding: 10px 0;
     display: flex;
     justify-content: space-between;
-    column-gap: 63px;
+    column-gap: 16px;
 }
 .header_content_title{
     font-weight: bold;
